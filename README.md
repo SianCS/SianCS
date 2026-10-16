@@ -31,5 +31,5 @@ A little more
 -  Passed ITPEC/IP
 - 🧰 I like understanding how things work under the hood — from APIs and databases to Linux tools
 <p align="center">
-  <i>Thanks for stopping by — feel free to explore my repositories.</i>
+  <i>Thanks for stopping by.</i>
 </p>
